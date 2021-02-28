@@ -1,7 +1,7 @@
 /*! Related Post Widget for Blogger by Taufik Nurrohman => http://gplus.to/tovic */
 if ( typeof relatedPostConfig == 'undefined') {
 	var relatedPostConfig = {
-		  homePage: "<data:blog.homepageUrl/>",
+		  homePage: "/",
 		  widgetTitle: "<h4>Related Posts :</h4>",
 		  numPosts: 5,
 		  summaryLength: 140,
