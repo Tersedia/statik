@@ -1,16 +1,16 @@
 /*! Related Post Widget for Blogger by Taufik Nurrohman => http://gplus.to/tovic */
 if ( typeof relatedPostConfig == 'undefined') {
 	var relatedPostConfig = {
-		  homePage: &quot;<data:blog.homepageUrl/>&quot;,
-		  widgetTitle: &quot;&lt;h4&gt;Related Posts :&lt;/h4&gt;&quot;,
+		  homePage: "<data:blog.homepageUrl/>",
+		  widgetTitle: "<h4>Related Posts :</h4>",
 		  numPosts: 5,
 		  summaryLength: 140,
-		  titleLength: &quot;auto&quot;,
+		  titleLength: "auto",
 		  thumbnailSize: 60,
-		  noImage: &quot;//3.bp.blogspot.com/-ltyYh4ysBHI/U04MKlHc6pI/AAAAAAAADQo/PFxXaGZu9PQ/w60-h60-c/no-image.png&quot;,
-		  containerId: &quot;related-post&quot;,
+		  noImage: "//3.bp.blogspot.com/-ltyYh4ysBHI/U04MKlHc6pI/AAAAAAAADQo/PFxXaGZu9PQ/w60-h60-c/no-image.png",
+		  containerId: "related-post",
 		  newTabLink: false,
-		  moreText: &quot;Read More...&quot;,
+		  moreText: "Read More...",
 		  widgetStyle: 2,
 		  callBack: function() {}
 	  };
